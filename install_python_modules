@@ -1,0 +1,5 @@
+Install espeak python module for python 3.
+- Fedora 
+- Ubuntu 
+apt install espeak 
+apt install python-espeak
