@@ -1,4 +1,7 @@
 # Alia
+
+[![made-with-python](http://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 human interface python - google speek
 - tray icon application - check
 - splash screen class - check
